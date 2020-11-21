@@ -1,12 +1,17 @@
 # Markdown基本语法
-代码演示'print('hello world!')'
+
+代码演示
+`print('hello world!')`
 多行代码演示
-'''python   
+
+```python   
 a=1
 b=2
 c=a+b
 print(c)
-'''
+```
+
+
 前端必学
 * css
 * javascript
