@@ -17,7 +17,8 @@ print(c)
 * javascript
 * html
 常见的编程语言
-1.python
-2.php
-3.javascript
-4.java
+
+1. python
+2. php
+3. javascript
+4. java
